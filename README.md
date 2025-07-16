@@ -38,7 +38,7 @@ npm run dev
 <strong>Now it's ready to `unpacked`</strong>
 
 ## Youtube video tutorial
-If you  want to see the youtube video tutorial then it's waiting for your. [click me to watch](https://youtu.be/c/stsabbir)
+If you  want to see the youtube video tutorial then it's waiting for your. [click me to watch](https://youtu.be/Y0vW-xrDH30)
 
 ## [dev.to](https://dev.to) blog post
 Here is the blog post [click me to read](https://dev.to/devlopersabbir)
